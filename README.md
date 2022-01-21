@@ -1,1 +1,1 @@
-# lectio-signum-project-website
+# Lectio Signum: Project Website
